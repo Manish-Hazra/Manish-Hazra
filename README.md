@@ -10,7 +10,7 @@
 * MERN Developer 🌐
 * Loves to Code 👨‍💻
 * **Hobbies**: :guitar: and :microphone:
-* Want to connect with me ? Just drop a **Hi** 👋 [here](www.linkedin.com/in/manish-hazra-3013a51a9/) ! 
+* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/manish-hazra-3013a51a9/) ! 
 
 ### Mostly Work With ⚒
 
