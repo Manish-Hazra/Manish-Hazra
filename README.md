@@ -44,6 +44,8 @@
 </div>
 <div  align="center">
  
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=SQLParser&show_icons=true&theme=great-gatsby" > 
+ 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=TalkBuddy&show_icons=true&theme=great-gatsby" > 
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=FlightTime&show_icons=true&theme=great-gatsby" >
