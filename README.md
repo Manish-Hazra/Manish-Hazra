@@ -44,17 +44,17 @@
 </div>
 <div  align="center">
  
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=SQLParser&show_icons=true&theme=great-gatsby" > 
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=TalkBuddy&show_icons=true&theme=great-gatsby" > 
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=TalkBuddy&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=ShopKart&show_icons=true&theme=great-gatsby" > 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=FlightTime&show_icons=true&theme=great-gatsby" >
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=SQLParser&show_icons=true&theme=great-gatsby" >
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=LCD&show_icons=true&theme=great-gatsby">
 
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=Password-Generator&show_icons=true&theme=great-gatsby" >
-
-
-
+ 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=FlightTime&show_icons=true&theme=great-gatsby"> 
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Hazra&repo=Shop-Management-System&show_icons=true&theme=great-gatsby"> 
   
